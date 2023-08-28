@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.2",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "MixamoAnimationRetargeting",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7d332d8c59f743f4a068710ab88599f6"
+		}
+	],
+	"TargetPlatforms": [
+		"Android"
+	]
+}
